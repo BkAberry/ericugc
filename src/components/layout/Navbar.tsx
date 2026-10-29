@@ -19,7 +19,7 @@ export const Navbar = () => {
 
   return (
     <nav className="fixed top-0 w-full z-50 px-6 py-4">
-      <div className="max-w-7xl mx-auto flex items-center justify-between bg-ivory/80 backdrop-blur-md rounded-full px-6 py-3 border border-charcoal/10 shadow-sm">
+      <div className="max-w-7xl mx-auto flex items-center justify-between bg-white/30 backdrop-blur-md border border-white/20 rounded-full px-6 py-3 shadow-sm">
         <div className="text-charcoal font-bold text-xl tracking-tighter">
           ERIC GOMEZ
         </div>

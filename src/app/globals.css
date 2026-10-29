@@ -12,10 +12,6 @@ body {
   overflow-x: hidden;
 }
 
-.glass-card {
-  @apply bg-white/30 backdrop-blur-md border border-white/20;
-}
-
 .video-card-shadow {
   box-shadow: 0 20px 40px -15px rgba(0,0,0,0.1);
 }
