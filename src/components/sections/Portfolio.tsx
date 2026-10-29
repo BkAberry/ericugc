@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { projects, Project } from "@/data/projects";
 import { cn } from "@/lib/utils";
+import { X } from "lucide-react";
 
 const CATEGORIES = ["ALL WORK", "HEALTH & FITNESS", "TECH & APPS", "LIFESTYLE", "EDUCATION", "PRODUCT DEMOS"];
 
